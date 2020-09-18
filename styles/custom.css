@@ -1,5 +1,6 @@
 body {
   background-color: #f0f0f5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #logo {
@@ -19,12 +20,14 @@ main {
 }
 
 .post {
-    background-color: white;
+    background: #fff;
     padding: 10px;
-    border: 1px solid rgb(209, 206, 206);
-    border-radius: 1%;
+    border: 1px solid gray;
+    border-radius: 4px;
+    margin-bottom: 30px;
 }
 
 .post img {
     width: 400px;
+
 }
